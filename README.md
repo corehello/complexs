@@ -1,9 +1,10 @@
 # complexs
 
 
-
+```
                cost
        |-------------------|
 input  |      system       | output
        |-------------------|
-             negative
+            side-effets
+```
